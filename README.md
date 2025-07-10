@@ -62,16 +62,5 @@ This system is built with a focus on deploying intelligent, explainable AI for m
 
 ---
 
-## Folder Structure
-
-AI-Healthcare-Assistant/
-│
-├── Mental_helth_detection.ipynb
-├── clinical_diagnosis_prediction.ipynb
-├── Customer_healthcare_Chatbot.ipynb
-├── models/
-├── data/
-├── app.py (optional Streamlit entry point)
-├── README.md
 
 
